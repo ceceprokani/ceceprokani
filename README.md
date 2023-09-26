@@ -1,5 +1,5 @@
 ### Hello there 👋 Im Cecep Rokani
-💼 Im currently work as Full Stack Developer at [scola.id](scola.id) and Freelancer take some side project like Mobile Application and Web Application.
+💼 Im currently work as Full Stack Developer at [scola.id](scola.id) and Freelancer Mobile Application and Web Application.
 
 🌱 Im currently learning about **Flutter** · **React Native** · **Increase Design UI/UX**
 
